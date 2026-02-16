@@ -1,1 +1,21 @@
+<<<<<<< HEAD
 plugins{id 'com.android.application'}android{namespace 'com.example.novaassist' compileSdk 34 defaultConfig{applicationId 'com.example.novaassist' minSdk 24 targetSdk 34 versionCode 1 versionName '1.0'}}
+=======
+
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.example.novaassist'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.example.novaassist"
+        minSdk 24
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+    }
+}
+>>>>>>> 6d48d770d80f9bf7556861a4d06bda0155b69db0

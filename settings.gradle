@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 rootProject.name='NovaAssistPro'
+=======
+rootProject.name = 'NovaAssistPro'
+>>>>>>> 6d48d770d80f9bf7556861a4d06bda0155b69db0
 include ':app'

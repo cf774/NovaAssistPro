@@ -1,1 +1,20 @@
+<<<<<<< HEAD
 buildscript{repositories{google();mavenCentral()}dependencies{classpath 'com.android.tools.build:gradle:8.2.2'}}allprojects{repositories{google();mavenCentral()}}
+=======
+
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.2.2'
+    }
+}
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+>>>>>>> 6d48d770d80f9bf7556861a4d06bda0155b69db0
